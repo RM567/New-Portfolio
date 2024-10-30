@@ -411,7 +411,7 @@ textarea {
           background: 250, 250, 250;
           margin: 2rem auto;
           padding: 0.5;
-      }
+  }
       
  .contact-info-container {
           display: flex;
@@ -419,19 +419,19 @@ textarea {
           justify-content: center;
           gap: 0.5rem;
           margin: 1rem;
-      }
+  }
       
   .contact-info-container p {
           font-size: larger;
-      }
+  }
       
 .contact-icon {
           cursor: default;
-      }
+  }
       
  .email-icon {
           height: 2.5rem;
-      }
+  }
       
 
 .project-cs-hero {
