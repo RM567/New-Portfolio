@@ -427,10 +427,12 @@ textarea {
       
 .contact-icon {
           cursor: default;
+          font-size: 32px;
   }
       
  .email-icon {
           height: 2.5rem;
+          font-size: 32px;
   }
       
 
